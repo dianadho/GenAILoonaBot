@@ -20,7 +20,7 @@ Azure Language Studio
 
 [Evaluation Chatgpt vs Roo](https://github.com/dianadho/GenAILoonaBot/blob/main/EvalChatVsRoo.csv) is our analysis of the LLM's responses classified as correct, incorrect, or refused to answer
 
-[Prompt Engineering Evaluation](https://github.com/dianadho/GenAILoonaBot/blob/main/Part%203%20Prompt%20Engineering%20Evaluation.csv) shows how we modified the prompt to avoid Roo refusing to answer
+[Prompt Engineering Evaluation](https://github.com/dianadho/GenAILoonaBot/blob/main/PromptEngEval.csv) shows how we modified the prompt to avoid Roo refusing to answer
 
 ## Create your own LLM
 1. Log into [Language Studio](https://language.cognitive.azure.com/) with your Azure credentials

@@ -9,9 +9,11 @@ Follow these steps to reproduce our analysis
 ChatGPT
 1. Go to [Open AI Chat](https://chat.openai.com/) in your preferred browser
 2. Enter your email address or use single sign-on via Google or Microsoft account 
+
 Roo
 1. Go to [Roo](https://roo.plannedparenthood.org/chat) in your preferred browser
 2. Enter your information to start chatting with Roo
+
 Azure Language Studio
 1. Create an [Azure subscription](https://azure.microsoft.com/en-us/free/ai/) for free
 

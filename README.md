@@ -16,11 +16,11 @@ Azure Language Studio
 1. Create an [Azure subscription](https://azure.microsoft.com/en-us/free/ai/) for free
 
 ## How to use the files
-[Part 1 Bedsider Verified Questions and Answers](https://github.com/dianadho/GenAILoonaBot/blob/main/Part%201%20Bedsider%20Verified%20Questions%20and%20Answers.csv) is the raw data webscraped from Bedsider's verified FAQ that can be used to train/test your own LLM
+[Bedsider Verified Questions and Answers](https://github.com/dianadho/GenAILoonaBot/blob/main/BedsiderVerifiedQA.csv) is the raw data webscraped from Bedsider's verified FAQ that can be used to train/test your own LLM
 
-[Part 2 Evaluation Chatgpt vs Roo](https://github.com/dianadho/GenAILoonaBot/blob/main/Part%202%20Evaluation%20Chatgpt%20vs%20Roo.csv) is our analysis of the LLM's responses classified as correct, incorrect, or refused to answer
+[Evaluation Chatgpt vs Roo](https://github.com/dianadho/GenAILoonaBot/blob/main/Part%202%20Evaluation%20Chatgpt%20vs%20Roo.csv) is our analysis of the LLM's responses classified as correct, incorrect, or refused to answer
 
-[Part 3 Prompt Engineering Evaluation](https://github.com/dianadho/GenAILoonaBot/blob/main/Part%203%20Prompt%20Engineering%20Evaluation.csv) shows how we modified the prompt to avoid Roo refusing to answer
+[Prompt Engineering Evaluation](https://github.com/dianadho/GenAILoonaBot/blob/main/Part%203%20Prompt%20Engineering%20Evaluation.csv) shows how we modified the prompt to avoid Roo refusing to answer
 
 ## Create your own LLM
 1. Log into [Language Studio](https://language.cognitive.azure.com/) with your Azure credentials
@@ -29,7 +29,7 @@ Azure Language Studio
 6. Select Enable custom question answering, choose the Azure Search resource to link to, and then select **Apply**
 7. Refresh the page and create a new project
 8. On the left menu bar, click **Manage sources** and click **Add source**
-9. Add [Part 1 Bedsider Verified Questions and Answers](https://github.com/dianadho/GenAILoonaBot/blob/main/Part%201%20Bedsider%20Verified%20Questions%20and%20Answers.csv) 
+9. Add [Bedsider Verified Questions and Answers](https://github.com/dianadho/GenAILoonaBot/blob/main/BedsiderVerifiedQA.csv) 
 10. Select **Test** from the menu bar to talk to your LLM
 11. Select **Inspect** to examine the response in more detail
 12. Follow [instructions](https://learn.microsoft.com/en-us/azure/cognitive-services/language-service/question-answering/quickstart/sdk?pivots=studio&tabs=macos#test-your-project) if you want to manage your knowledge base, deploy your project, or review suggestions

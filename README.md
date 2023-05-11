@@ -16,7 +16,7 @@ Azure Language Studio
 1. Create an [Azure subscription](https://azure.microsoft.com/en-us/free/ai/) for free
 
 ## How to use the files
-[Bedsider Verified Questions and Answers](https://github.com/dianadho/GenAILoonaBot/blob/main/BedsiderVerifiedQA.csv) is the raw data webscraped from Bedsider's verified FAQ that can be used to train/test your own LLM
+[Bedsider Verified Questions and Answers](https://github.com/dianadho/GenAILoonaBot/blob/main/BedsiderVerifiedQA.csv) is the data scraped from Bedsider's verified FAQ that can be used to train/test your own LLM
 
 [Evaluation Chatgpt vs Roo](https://github.com/dianadho/GenAILoonaBot/blob/main/EvalChatVsRoo.csv) is our analysis of the LLM's responses classified as correct, incorrect, or refused to answer
 

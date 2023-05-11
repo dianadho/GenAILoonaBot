@@ -1,4 +1,4 @@
-# GenAILoonaBot
+# Loona Bot
 Finding the Right Answers in Reproductive and Menstrual Health
 ## About the project
 Our research project explores how well can ChatGPT and Roo (Planned Parenthood Chatbot) answer women’s reproductive and menstrual health queries in comparison to the existing resources. In order to determine if the response from the LLM is sufficient, we considered these three factors: factuality, accessibility, and timeliness. As the source of truth, we evaluated these responses against the most trusted online resources for women’s health which are Bedsider and Planned Parenthood.
